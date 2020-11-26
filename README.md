@@ -1,4 +1,4 @@
-# password_cracker
+# password-cracker
 Continuing to learn Python through JetBrains courses; this is another project following a series of tutorials.
 
 This script does several things:
